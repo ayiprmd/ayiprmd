@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ayip</h1>
+<h1 align="center">Hi, I'm Ayip</h1>
 <h3 align="center">Front-End Developer | UI & UX Enthusiast</h3>
 
 <p align="center">
@@ -8,10 +8,10 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working on: **[nama project]**
-- 🌱 Currently learning: **[skill baru]**
+- 🔭 Currently working on: **VCLASS TRACKER**
+- 🌱 Currently learning: **REACT JS**
 - 💬 Ask me about: **HTML, React, Tailwind, Python**
-- 📫 Reach me: **[email/linkedin]**
+- 📫 Reach me: **ayipramadhan24@gmail.com**
 
 ---
 
@@ -32,15 +32,6 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight" />
 </p>
-
----
-
-### 📌 Featured Projects
-
-| Project | Deskripsi | Tech |
-|---|---|---|
-| [Nama Project 1](link) | Deskripsi singkat | React, Tailwind |
-| [Nama Project 2](link) | Deskripsi singkat | Python |
 
 ---
 
