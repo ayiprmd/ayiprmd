@@ -47,4 +47,7 @@
 
 ---
 
+**<h3 align="left">Connect with me:</h3>** 
+<p align="left"><a href="ayipramadhan24@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.instagram.com/ayiprmd_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+
 <p align="center">🔥 <i>"Consistency beats intensity."</i></p>
