@@ -1,6 +1,13 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&color=61DAFB&center=true&vCenter=true&width=400&height=50&lines=Hi%2C+I'm+Ayip+%F0%9F%91%8B" alt="Nama" />
-</p>
+![Hi, My Name Muhammad Alif](https://cdna.artstation.com/p/assets/images/images/066/880/442/original/ilgin-gungor-calisma-masasi11.gif?1694002774)
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        Hi, My Name Muhammad Alif
+      </h1>
+    </summary>
+  </ul>
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Front--End_Developer-blue?style=for-the-badge&logo=react&logoColor=white" />
@@ -9,11 +16,12 @@
 
 ---
 
-### 🚀 About Me
-- 🔭 Currently working on: **LandingPageV1**
-- 🌱 Currently learning: **REACT JS**
-- 💬 Ask me about: **HTML, React, Tailwind, Python**
-- 📫 Reach me: **ayipramadhan24@gmail.com**
+**<h3 align="left">Rapid Fire</h3>**
+
+- 💼 I'm currently working on: **💻 LandingPageV1 With React**
+- 🌱 I'm currently learning: **📚 ReactJS**
+- 💬 Ask me about: **💡 Tailwind, React, Python**
+- ⚡ Fun fact: **🎢 I once debugged a issue while on a roller coaster!**
 
 ---
 
