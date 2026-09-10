@@ -2,7 +2,7 @@
 <h3 align="center">Front-End Developer | UI & UX Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Building+with+React+%26+Tailwind;Learning+Python+everyday;Open+to+Collab" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20Ayip!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer%20|%20UI%20%26%20UX%20Enthusiast&descAlignY=62&descSize=20" width="100%" />
 </p>
 
 ---
