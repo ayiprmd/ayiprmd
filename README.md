@@ -28,10 +28,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight" />
-</p>
+![GitHub Stats Card](https://ghstats.dev/api/card?username=ayiprmd&theme=midnight&show_ring=false)
 
 ---
 
