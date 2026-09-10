@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working on: **VCLASS TRACKER**
+- 🔭 Currently working on: **LandingPageV1**
 - 🌱 Currently learning: **REACT JS**
 - 💬 Ask me about: **HTML, React, Tailwind, Python**
 - 📫 Reach me: **ayipramadhan24@gmail.com**
