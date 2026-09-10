@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&height=70&lines=Hi%2C+I'm+Ayip!+%F0%9F%91%8B;Front-End+Developer;UI+%26+UX+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&color=61DAFB&center=true&vCenter=true&width=400&height=50&lines=Hi%2C+I'm+Ayip+%F0%9F%91%8B" alt="Nama" />
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 ![Top Languages](https://ghstats.dev/api/langs?username=ayiprmd&theme=nightowl&max_langs=11&layout=grid)
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
